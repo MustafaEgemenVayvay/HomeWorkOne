@@ -12,40 +12,48 @@ opts_chunk$set(fig.align="center", fig.height=4, fig.width=5.5)
 
 **Soru 1** Markdown kullanarak bir kelimesi kalın olan bir cümle yazınız.
 
-Cevabınızı buraya yazınız!
+merhaba adım **Egemen**.
 
 **Soru 2** Markdown kullanarak bir kelimesi italik olan bir cümle yazınız.
 
-Cevabınızı buraya yazınız!
+iktisat _öğrencisiyim_
 
 **Soru 3** Markdown kullanarak bir kelimesi kalın italik olan bir cümle yazınız.
 
-Cevabınızı buraya yazınız!
+Ankara'da **_okuyorum_**
 
 **Soru 4** Markdown kullanarak 3 elemanlı bir sırasız liste yazınız.
 
-Cevabınızı buraya yazınız!
+*aslan
+*kaplan
+*timsah
 
 **Soru 5** Markdown kullanarak 3 elemanlı bir sıralı liste yazınız.
 
-Cevabınızı buraya yazınız!
+1.kedi
+2.köpek
+3.kuş
 
 **Soru 6** Markdown kullanarak istediğiniz bir websayfasına link veriniz.
 
-Cevabınızı buraya yazınız!
+[Sahibinden](https://www.sahibinden.com/)
 
 **Soru 7** Markdown kullanarak bir komik bir kedi fotoğrafı ekleyiniz.
 
-Cevabınızı buraya yazınız!
+[komik kedi resmi](https://img-s2.onedio.com/id-62e3ae62752516981dc4f891/rev-0/w-635/f-jpg/s-dd1c57e7112d23c10ac77b79f80696e45e62a418.jpg)
 
 **Soru 8** RMarkdown kullanarak bir kod bloğu ekleyiniz ve içerisinde basit bir matematik işlemi yapınız.
 
-Cevabınızı buraya yazınız!
+```{r}
+5 * 8
+```
 
 **Soru 9** LaTeX kullanarak bir blok denklem yazınız
 
-Cevabınızı buraya yazınız!
+$B=b*x^{2}$
 
 **Soru 9** Bir kod bloğu ekleyerek 5 + 4 toplamını hesaplayınız.
 
-Cevabınızı buraya yazınız!
+```{r}
+5 + 4
+```
