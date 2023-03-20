@@ -24,9 +24,9 @@ Ankara'da **_okuyorum_**
 
 **Soru 4** Markdown kullanarak 3 elemanlı bir sırasız liste yazınız.
 
-*aslan
-*kaplan
-*timsah
+* aslan
+* kaplan
+* timsah
 
 **Soru 5** Markdown kullanarak 3 elemanlı bir sıralı liste yazınız.
 
@@ -40,7 +40,7 @@ Ankara'da **_okuyorum_**
 
 **Soru 7** Markdown kullanarak bir komik bir kedi fotoğrafı ekleyiniz.
 
-[komik kedi resmi](https://img-s2.onedio.com/id-62e3ae62752516981dc4f891/rev-0/w-635/f-jpg/s-dd1c57e7112d23c10ac77b79f80696e45e62a418.jpg)
+![komik kedi resmi](https://i4.hurimg.com/i/hurriyet/75/0x0/5efd782445d2a04ed8f62cb8.jpg)
 
 **Soru 8** RMarkdown kullanarak bir kod bloğu ekleyiniz ve içerisinde basit bir matematik işlemi yapınız.
 
